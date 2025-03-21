@@ -1,0 +1,4 @@
+// This file adds the namespace to the flutter_local_notifications plugin
+android {
+    namespace "com.dexterous.flutterlocalnotifications"
+} 
